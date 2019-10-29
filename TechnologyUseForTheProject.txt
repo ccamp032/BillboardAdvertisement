@@ -1,0 +1,15 @@
+
+
+
+1. Atmel Studio 7.0
+2. ATmega1284 microcontroller 
+3. Nokia 5110 LCD Display
+4. 74HC595 Shift Register
+5. Draw.io
+6. MS paint
+7. LCDAssistant 
+8. RIMS
+9. RIBs
+10. GitHub
+
+

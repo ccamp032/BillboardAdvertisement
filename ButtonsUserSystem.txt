@@ -1,0 +1,12 @@
+
+
+
+
+Billboard Custom Project 
+
+Button's system
+
+Button 1 controls the Advertisement to be display in the Nokia 5110
+Button 2 controls the Logos to be display in the Nokia 5110
+Button 3 controls the GIF to be display in the Nokia 5110
+
